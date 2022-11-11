@@ -30,7 +30,7 @@ font-family: "Poppins", sans-serif;
     background-size: cover;
 }
 #book .overlay {
-    background: rgba(153, 204, 255, 0.75); /*#99ccff*/
+    background: rgba(25,25,112, 0.9); /*#99ccff*/
 }
 .social-icons {
     text-align: left;
